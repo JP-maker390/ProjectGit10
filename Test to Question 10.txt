@@ -1,0 +1,10 @@
+----First Test------
+Enter the string to find its length: JoaoPaulo
+The user string is: JoaoPaulo
+The length of the string is:9
+
+----Second Test------
+Enter the string to find its length: Siemens
+The user string is: Siemens
+The length of the string is:7
+
